@@ -1,0 +1,11 @@
+Dependencias
+------------
+npm i express socket.io nodemon
+
+si escribimos esto, veremos todo el javascript del como esta creado socketio
+http://localhost:3000/socket.io/socket.io.js
+
+Nota:
+Si cualquier puerto al iniciar node esta bloqueado en windows, ejecutar lo siguiente:
+taskkill /F /IM node.exe
+
